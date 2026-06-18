@@ -79,12 +79,12 @@ KNN and SVM also performed well after feature scaling. Naive Bayes performed mod
 
 ### Model Accuracy Comparison
 
-![Model Accuracy Comparison](model_comparison.png)
+![Model Accuracy Comparison](images/model_comparison.png)
 
 ### Random Forest Confusion Matrix
 
-![Random Forest Confusion Matrix](confusion_matrix_random_forest.png)
+![Random Forest Confusion Matrix](images/confusion_matrix_random_forest.png)
 
 ### Random Forest Feature Importance
 
-![Random Forest Feature Importance](feature_importance_random_forest.png)
+![Random Forest Feature Importance](images/feature_importance_random_forest.png)
