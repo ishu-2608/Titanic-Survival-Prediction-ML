@@ -74,3 +74,17 @@ KNN and SVM also performed well after feature scaling. Naive Bayes performed mod
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+  ## Visual Results
+
+### Model Accuracy Comparison
+
+![Model Accuracy Comparison](model_comparison.png)
+
+### Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](confusion_matrix_random_forest.png)
+
+### Random Forest Feature Importance
+
+![Random Forest Feature Importance](feature_importance_random_forest.png)
