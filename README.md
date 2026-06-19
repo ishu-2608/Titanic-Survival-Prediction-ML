@@ -88,3 +88,14 @@ KNN and SVM also performed well after feature scaling. Naive Bayes performed mod
 ### Random Forest Feature Importance
 
 ![Random Forest Feature Importance](images/feature_importance_random_forest.png)
+
+
+## Final Conclusion
+
+In this project, a supervised machine learning model was built to predict Titanic passenger survival.
+
+Multiple classification algorithms were trained and compared, including Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Naive Bayes, and Support Vector Machine.
+
+Random Forest achieved the best final test accuracy of 82.68% and a strong ROC-AUC score of 89.71%.
+
+A complete machine learning pipeline was created using ColumnTransformer, and the trained pipeline was saved using joblib for future predictions.
